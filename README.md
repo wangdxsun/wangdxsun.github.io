@@ -1,21 +1,12 @@
-# Jekyll template
-Beautiful responsive portfolio style template for designers and web developers
+# Stylish Portolio template for Jekyll
 
-[![Gitter](https://badges.gitter.im/nikrich/jekyll-slender-template.svg)](https://gitter.im/nikrich/jekyll-slender-template?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-[![Twitter](https://img.shields.io/badge/Twitter-@slender_rich-blue.svg?style=flat)](https://twitter.com/slender_rich)
+A Jekyll implementation of the [Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/) template by [Start Bootstrap](http://startbootstrap.com/).
 
-![preview](http://i.imgur.com/9Nz6Ib9.jpg)
+See the site in action at https://volny.github.io/stylish-portfolio-jekyll/
 
-## Demo
-Find a demo [here](http://nikrich.github.io/jekyll-slender-template/#)
+## To use the Stylish Portfolio template in your project
 
-## Contributing
-
-1. Clone the repo
-2. Checkout the dev branch ( Do not work directly on master )
-3. Use ```jekyll serve``` to run the project
-4. Make your changes and test
-5. Submit a pull request
-
-
-Inspired by [Balraj Chana](https://dribbble.com/shots/2380700-New-Portfolio-Site-Live)
+- Start by adding your info in `_config.yml`
+- Add as many address lines as you want. Your address will also be used to show your location on the map.
+- For the emdeded map to work you'll need to [get a key from Google Maps Embed API](https://developers.google.com/maps/documentation/embed/?hl=en)
+- In `_layouts/front.html` reorder or remove section as you prefer.
