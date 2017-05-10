@@ -1,13 +1,13 @@
 # Site settings
-title:Observer Star 's Blog
-email:daoxin.wang@phicomm.com
-description:Work hard, Play hard! Try to be a man simple and reliable.
+title: Observer Star 's Blog
+email: daoxin.wang@phicomm.com
+description: Work hard, Play hard! Try to be a man simple and reliable.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner:daoxin.wang
-email:daoxin.wang@phicomm.com
+owner: daoxin.wang
+email: daoxin.wang@phicomm.com
 facebook_username:
 twitter_username:
 github_username:wangdxsun
@@ -15,8 +15,8 @@ address:
   - line:
   - line:
   # Feel free to add more lines here 
-telephone:+86 17621201881
-copyright:@ObserverStar
+telephone: +86 17621201881
+copyright: @ObserverStar
 
 # API settings
 google_api_key:
