@@ -1,8 +1,7 @@
 # Site settings
 title:Observer Star 's Blog
 email:daoxin.wang@phicomm.com
-description: > # this means to ignore newlines until "baseurl:"
-  Work hard, Play hard! Try to be a man simple and reliable.
+description:Work hard, Play hard! Try to be a man simple and reliable.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
