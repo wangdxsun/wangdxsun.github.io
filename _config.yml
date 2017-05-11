@@ -1,25 +1,23 @@
 # Site settings
-title: "Observer Star 's Blog"
-email: daoxin.wang@phicomm.com
-description: "Work hard, Play hard! Try to be a man simple and reliable."
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+title: HyG
+email: gaohaoyang126@126.com
+description: 浩阳的博客 前端爱好者
+# > # this means to ignore newlines until "baseurl:"
+#   Write an awesome description for your new site here. You can edit this
+#   line in _config.yml. It will appear in your document head meta (for
+#   Google search results) and in your feed.xml site description.
 
-# User setting
-owner: daoxin.wang
-email: daoxin.wang@phicomm.com
-facebook_username:
-twitter_username:
-github_username: wangdxsun
-address:
-  - line:
-  - line:
-  # Feel free to add more lines here 
-telephone: "+86 17621201881"
-copyright: "@ObserverStar"
-
-# API settings
-google_api_key:
+# baseurl: "" # the subpath of your site, e.g. /blog/
+# url: "http://yourdomain.com" # the base hostname & protocol for your site
+# twitter_username: jekyllrb
+github_username:  Gaohaoyang
+permalink: /:year/:month/:day/:title/
 
 # Build settings
 markdown: kramdown
+
+# highlight
+# 本地用rouge, github上用pygments
+# highlighter: pygments
+# highlighter: rouge
+# highlighter: false
