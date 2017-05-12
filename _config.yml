@@ -21,3 +21,9 @@ markdown: kramdown
 # highlighter: pygments
 # highlighter: rouge
 # highlighter: false
+
+deploy:
+    type: git
+    repo: 
+    branch: master
+    message: "First try"
